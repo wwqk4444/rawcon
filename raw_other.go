@@ -18,7 +18,7 @@ import (
 
 	ran "math/rand"
 
-	utils "github.com/zhengying/ccsexyz_utils"
+	utils "github.com/wwqk4444/ccsexyz_utils"
 	"github.com/zhengying/gopacket"
 	"github.com/zhengying/gopacket/layers"
 	"github.com/zhengying/gopacket/pcap"
