@@ -20,9 +20,9 @@ import (
 	ran "math/rand"
 
 	utils "github.com/wwqk4444/ccsexyz_utils"
-	"github.com/zhengying/gopacket"
-	"github.com/zhengying/gopacket/bsdbpf"
-	"github.com/zhengying/gopacket/layers"
+	"github.com/google/gopacket"
+	"github.com/google/gopacket/bsdbpf"
+	"github.com/google/gopacket/layers"
 	"golang.org/x/net/ipv4"
 )
 
